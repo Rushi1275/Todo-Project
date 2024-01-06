@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.card-body{
+    border: 3px solid  white;
+    width: 40cap;
+    text-align: center;
+   
+}
+.btn{
+    width: 12cap;
+    height: 3cap;
+    background-color: rgb(50, 94, 223);
+    color: white;
+}
